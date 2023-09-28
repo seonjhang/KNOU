@@ -46,3 +46,31 @@ l
 #Logical Obejct
 m <- i>2
 m
+
+#Matirx & Data Frame
+n <- rep(10,5)
+o <- 1:5
+p <- cbind(n,o)
+p
+q <- rbind(n,o)
+q
+r <- matrix(1:4, 2, 2)
+r
+s <- matrix(c(1, 4, 2, 7), 2, 2)
+s
+r+s
+r %*% s
+solve(s)
+s[1,2]
+s[1,]
+s[,2]
+
+#Data Frame
+name <- c("Kim", "Lee", "Park", "Choi")
+age <- c(20, 32, 17, 51)
+sex <- as.factor(c("Male", "Female", "Female", "Female"))
+dat <- data.frame(name, age, sex)
+dat
+dat$name
+dat$age
+dat$sex
