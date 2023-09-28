@@ -1,6 +1,7 @@
 # KNOU
-Lectures taken at Korea National Open University as a part-time student
+Courses taken at Korea National Open University as a part-time student
 
+|Year|semester|Courses|
 [Fall 2023]
 College Mathematics
 C++
