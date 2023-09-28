@@ -28,5 +28,7 @@ Java Programming
 |---|---|---|
 |2023|*Fall*|College Mathematics|
 |||Python & R|
-|테스트1|**강조2**|테스트3|
-|테스트1|<span style="color:red">강조3</span>|테스트3|
+|2023|*Spring*|Introduction to Statistics|
+|||Prediction Methodology|
+|||Regression Model|
+|||Probability Concepts and Applications|
