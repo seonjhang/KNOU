@@ -3,7 +3,7 @@ Courses taken at Korea National Open University as a part-time student
 
 
 |Year|Semester|Course|
-|---|---|---|
+|---|:---:|---|
 |2023|*Fall*|College Mathematics|
 |||C++|
 |||Python & R|
