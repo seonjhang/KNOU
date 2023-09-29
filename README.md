@@ -12,7 +12,7 @@ Courses taken at Korea National Open University as a part-time student
 |||Regression Model|
 |||Probability Concepts and Applications|
 |2022|*Fall*|Mathematical Statistics|
-|||Sampling Tehcnique|
+|||Sampling Technique|
 |||Data Structure|
 |||Linear Algebra|
 |2022|*Spring*|Discrete Mathematics|
