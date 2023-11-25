@@ -1,5 +1,5 @@
 # KNOU
-Courses taken at Korea National Open University as a part-time student
+Courses taken at Korea National Open University as Statistics and Data Science student
 
 
 |Year|Semester|Course|
